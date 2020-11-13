@@ -1,5 +1,5 @@
 cc
-
+%sss
 % load data
 load('d:\work\research\2010.6\mfile\20121208_seasonality\SSH_wind\correl\windcurl_SSH\examp.mat')
 % twc, pssh, time
